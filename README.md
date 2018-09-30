@@ -1,5 +1,9 @@
 # dotfiles
 
+# zsh
+1. ``` cd dotfiles```
+2. ``` ./setup.sh```
+
 ## vim
 .vimrc
 
